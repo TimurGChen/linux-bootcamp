@@ -4,5 +4,8 @@ he was a good programmer and didn't need to.
 But one day, he made a mistake and wrote buggy code. He searched for hours for
 his bug, but couldn't figure it out.
 
-He fell to the hell where the world is filled with fire and sword! Until he decides to seek salvation from git, he will live there in hell miserably ever after!
+He fell to the hell where the world is filled with fire and sword! Until he 
+decides to seek salvation from git, he will live there in hell miserably ever after!
 
+One day the demon said to the programmer, would you like to sign a treaty with me
+ and get some bugless code?
