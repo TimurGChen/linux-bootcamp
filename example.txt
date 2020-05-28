@@ -1,3 +1,6 @@
+The gitless programmer decides to improve his grievous habits, so the
+story unfolds again.
+
 Once upon a time there was a good programmer who used git. He committed
 regularly and wrote useful messages.
 
